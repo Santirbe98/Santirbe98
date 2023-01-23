@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Proyecto-Inmobiliario](https://github.com/salvaarmanasco/Proyecto-Inmobiliario)
 
-- 💼 I'm working on [Individual proyect - Dogs app](https://github.com/Santirbe98/PI-Dogs)
+- 💼 Worked on [Individual proyect - Dogs app](https://github.com/Santirbe98/PI-Dogs)
 
 - 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
 
