@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Santiago Bonetto</h1>
 <h3 align="center">Full-Stack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Proyecto-Inmobiliario](https://github.com/salvaarmanasco/Proyecto-Inmobiliario)
+- 🔭 I’m currently working on [Imagine Big](https://github.com/imaginebigdev)
 
 - 💼 Worked on [Individual proyect - Dogs app](https://github.com/Santirbe98/PI-Dogs)
 
 - 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
 
-- 🌱 I’m currently learning **typeScript & Chackra UI**
+- 🌱 I’m currently learning **typeScript & Next.js**
 
 - 💬 Ask me about **Scrum, React-redux, team coordination**
 
