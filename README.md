@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Santiago Bonetto</h1>
 <h3 align="center">Full-Stack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Imagine Big](https://github.com/imaginebigdev)
+- 🔭 I’m currently working on my own bussiness
 
-- 💼 Worked on [Individual proyect - Dogs app](https://github.com/Santirbe98/PI-Dogs)
+- 💼 Worked on [Imagine Big](https://github.com/imaginebigdev)
 
 - 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
 
-- 🌱 I’m currently learning **typeScript & Next.js**
+- 🌱 I’m currently learning **MongoDB & Next.js**
 
-- 💬 Ask me about **Scrum, React-redux, team coordination**
+- 💬 Ask me about **NextJS, React-redux, team coordination**
 
 - 📫 How to reach me **santirbe@gmail.com**
 
