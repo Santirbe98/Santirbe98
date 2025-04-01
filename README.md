@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago Bonetto</h1>
 <h3 align="center">Full-Stack web developer from Argentina</h3>
 
-- 💼 Work on [Imagine Big](https://github.com/imaginebigdev](https://www.interdata.com.ar/)
+- 💼 Work on [Interdata](https://www.interdata.com.ar/)
 
 - 🌱 I’m currently learning **.NET**
 
