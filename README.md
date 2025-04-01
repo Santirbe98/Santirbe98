@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Santiago Bonetto</h1>
 <h3 align="center">Full-Stack web developer from Argentina</h3>
 
-- 🔭 I’m currently working on my own bussiness
+- 💼 Work on [Imagine Big](https://github.com/imaginebigdev](https://www.interdata.com.ar/)
 
-- 💼 Worked on [Imagine Big](https://github.com/imaginebigdev)
-
-- 📊 and [Final Proyect - Exo-otaku E-commerce](https://github.com/Santirbe98/PF-ExoOtaku)
-
-- 🌱 I’m currently learning **MongoDB & Next.js**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **NextJS, React-redux, team coordination**
 
